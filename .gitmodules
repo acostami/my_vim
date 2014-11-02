@@ -1,0 +1,12 @@
+[submodule "core/pathogen"]
+	path = core/pathogen
+	url = https://github.com/tpope/vim-pathogen
+[submodule "plugins/nerdtree"]
+	path = plugins/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "plugins/zoomwin"]
+	path = plugins/zoomwin
+	url = https://github.com/regedarek/ZoomWin.git
+[submodule "plugins/ctrlp"]
+	path = plugins/ctrlp
+	url = https://github.com/kien/ctrlp.vim
