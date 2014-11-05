@@ -108,3 +108,9 @@ map <Leader>n :NERDTreeToggle<CR>
 ""
 
 map <Leader><Leader> :ZoomWin<CR>
+
+""
+"" CtrlP
+""
+
+map <C-b> :CtrlPBuffer<CR>

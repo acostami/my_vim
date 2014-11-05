@@ -13,3 +13,12 @@
 [submodule "plugins/fujitive"]
 	path = plugins/fujitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "plugins/vim-rails"]
+	path = plugins/vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "plugins/tcomment"]
+	path = plugins/tcomment
+	url = https://github.com/tomtom/tcomment_vim.git
+[submodule "plugins/vim-unimpaired"]
+	path = plugins/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
