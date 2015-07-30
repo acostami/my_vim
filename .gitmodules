@@ -25,3 +25,6 @@
 [submodule "vim-surround"]
 	path = vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "plugins/supertab"]
+	path = plugins/supertab
+	url = git://github.com/vim-scripts/supertab.git
