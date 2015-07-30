@@ -22,3 +22,6 @@
 [submodule "plugins/vim-unimpaired"]
 	path = plugins/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
