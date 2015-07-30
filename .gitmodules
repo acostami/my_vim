@@ -22,12 +22,12 @@
 [submodule "plugins/vim-unimpaired"]
 	path = plugins/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
-[submodule "vim-surround"]
-	path = vim-surround
-	url = https://github.com/tpope/vim-surround.git
 [submodule "plugins/supertab"]
 	path = plugins/supertab
 	url = git://github.com/vim-scripts/supertab.git
 [submodule "plugins/closetag"]
 	path = plugins/closetag
 	url = git://github.com/docunext/closetag.vim.git
+[submodule "plugins/vim-surround"]
+	path = plugins/vim-surround
+	url = https://github.com/tpope/vim-surround.git
