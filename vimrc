@@ -116,3 +116,10 @@ map <Leader><Leader> :ZoomWin<CR>
 ""
 
 map <C-b> :CtrlPBuffer<CR>
+
+""
+"" CloseTag: Load only for html/xml like files.
+""
+
+autocmd FileType html,htmldjango,jinjahtml,eruby,mako let b:closetag_html_style=1
+autocmd FileType html,xhtml,xml,htmldjango,jinjahtml,eruby,mako source ~/.vim/plugins/closetag/plugin/closetag.vim

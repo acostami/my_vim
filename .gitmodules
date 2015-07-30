@@ -28,3 +28,6 @@
 [submodule "plugins/supertab"]
 	path = plugins/supertab
 	url = git://github.com/vim-scripts/supertab.git
+[submodule "plugins/closetag"]
+	path = plugins/closetag
+	url = git://github.com/docunext/closetag.vim.git
